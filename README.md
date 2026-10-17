@@ -29,11 +29,6 @@ python main.py
 ```text
 http://127.0.0.1:5778/
 ```
-## 🧪 Learning Objectives
-
-- Understand how IDOR vulnerabilities work.
-- Practice testing access controls in a local lab.
-
 ## 👨‍💻 Author
 
 GitHub: [https://github.com/cyber6869](https://github.com/cyber6869)
