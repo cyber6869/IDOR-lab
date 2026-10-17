@@ -1,0 +1,48 @@
+{"user1":{
+
+"id": 100,
+"full_name": "Alexe batl",
+"email": "alexe_batl@example.com",
+"phone": "+210 323576543",
+"username": "Alexe",
+"password": "k9mym5mAl2ex"
+},
+"user2":{
+
+"id": 101,
+"full_name": "Adrian bland",
+"email": "adrian_bland@example.com",
+"phone": "+210 975786424" ,
+"username": "Adrian",
+"password": "jd99dAdri99AN"
+},
+"user3":{
+
+"id": 102,
+"full_name": "Rexe michel",
+"email": "exe_michel@example.com",
+"phone": "+111 849302939",
+"username": "Rexe",
+"password": "eewkR3EXE00"
+},
+"user4":{
+
+"id": 103,
+"full_name": "Adam mlili",
+"email": "adam_mlili@example.com",
+"phone": "+224 384939402",
+"username": "Adam",
+"password": "8839kzADA0@M"
+},
+"user5":{
+
+"id": 104,
+"full_name": "Ossama rali",
+"email": "ossama_rali@example.com",
+"phone": "+211 7593932013",
+"username": "Ossama",
+"password": "Ossam00023ma@#*jj"
+}
+
+}
+
