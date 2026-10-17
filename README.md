@@ -11,7 +11,7 @@ This project demonstrates how an IDOR vulnerability can occur in a Flask applica
 ## 📦 Installation
 >Kali linux / Ubuntu / Parrot etc..
 ```bash
-https://github.com/cyber6869/IDOR-lab.git
+git clone https://github.com/cyber6869/IDOR-lab.git
 ```
 
 ```bash
