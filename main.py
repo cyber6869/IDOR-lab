@@ -4,7 +4,7 @@
 #GitHub: https://github.com/cyber6869
 
 from flask import Flask,render_template,request,jsonify,session
-import json,secrets
+import json,secrets,webbrowser
 
 #users data information 
 with open('data.json','r',encoding='utf-8') as j:
@@ -55,4 +55,7 @@ def page_not_found(error):
 
 
 if __name__ == '__main__':
-    app.run(host="127.0.0.1")
+    webbrowser.open("http://127.0.0.1:5778") #for open the browser
+    app.run(host="127.0.0.1",port=5778)
+   
+    
